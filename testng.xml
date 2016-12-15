@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <!--<class name="com.uom.tests.ManageInventoryListiOS"/>-->
+      <class name="com.uom.tests.CloseInventory"/>
+      <!--<class name="com.uom.tests.SetupInventory"/>-->
+      <!--<class name="com.uom.tests.WorkFlow"/>-->
+      <!--<class name="com.uom.tests.TrackInventory"/>-->
+      <!--<class name="com.uom.tests.ManageLocation"/>-->
+      <!--<class name="com.uom.tests.NonSyscoPrepItems"/>-->
+      <!--<class name="com.uom.tests.ManageInventoryList"/>-->
+      <!--<class name="com.uom.tests.ManageExpenseCategories"/>-->
+      <!--<class name="com.uom.tests.FoodCost"/>-->
+      <!--<class name="com.uom.tests.Suppliers"/>-->
+      <!--<class name="com.uom.tests.Usability"/>-->
+      <!--<class name="com.uom.tests.PurchaseOrder"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

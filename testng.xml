@@ -16,6 +16,7 @@
       <!--<class name="com.uom.tests.Suppliers"/>-->
       <!--<class name="com.uom.tests.Usability"/>-->
       <!--<class name="com.uom.tests.PurchaseOrder"/>-->
+      <!--what-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
